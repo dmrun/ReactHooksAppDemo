@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.formSubmit > input{
+  text-align: center !important;
+  width: 51%;
+  margin-left:5%;
+  margin-right:5%;
+}
+
+.select{
+  width: 51% !important;
+    margin: 1% !important;
+    text-align: center !important;
+    border: 1px solid black;
+  border-radius: 5px;  margin: auto !important;
+  
+  }
